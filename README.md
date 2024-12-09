@@ -1,2 +1,2 @@
 # NoTakeNoLoad
-Wurm mod to prevent players from loading off deed items
+A simple Wurm mod designed to allow GMs to mark off-deed items such that players will no longer be able to load them into their vehicles.
